@@ -1,0 +1,15 @@
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\bin\Debug\net6.0\FourPillarsApp.exe
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\bin\Debug\net6.0\FourPillarsApp.deps.json
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\bin\Debug\net6.0\FourPillarsApp.runtimeconfig.json
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\bin\Debug\net6.0\FourPillarsApp.dll
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\bin\Debug\net6.0\FourPillarsApp.pdb
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\obj\Debug\net6.0\FourPillarsApp.csproj.AssemblyReference.cache
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\obj\Debug\net6.0\FourPillarsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\obj\Debug\net6.0\FourPillarsApp.AssemblyInfoInputs.cache
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\obj\Debug\net6.0\FourPillarsApp.AssemblyInfo.cs
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\obj\Debug\net6.0\FourPillarsApp.csproj.CoreCompileInputs.cache
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\obj\Debug\net6.0\FourPillarsApp.dll
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\obj\Debug\net6.0\refint\FourPillarsApp.dll
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\obj\Debug\net6.0\FourPillarsApp.pdb
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\obj\Debug\net6.0\FourPillarsApp.genruntimeconfig.cache
+C:\Users\bader\Documents\SpartaGlobal\Tech211\week3\FourPillars\FourPillarsApp\obj\Debug\net6.0\ref\FourPillarsApp.dll
